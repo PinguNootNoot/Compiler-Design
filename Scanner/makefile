@@ -3,3 +3,4 @@ scanner: scanner.o
 
 clean:
 	rm *.o scanner
+
