@@ -1,2 +1,3 @@
 # Compiler-Design
-Including the scanner and parser I implemented using Lex & YACC.
+This repository contains the scanner and parser I implemented using Lex & YACC.
+HW3 is done with the help of symbol table, coded by Professor Jenq Kuen Lee.
